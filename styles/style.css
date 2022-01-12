@@ -137,7 +137,7 @@ main{
     .players, .blogs, .courses{
         grid-template-columns: repeat(1,1fr);
     }
-    .player, .blog,.course{
+    .player, .blog, .course{
         flex-direction: column;
     }
 }
