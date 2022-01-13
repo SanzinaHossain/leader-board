@@ -139,6 +139,7 @@ main{
     }
     .courses{
         flex-direction: column;
+        height: 100%;
     }
     .player, .blog, .course{
         flex-direction: column;
