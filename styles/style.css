@@ -140,6 +140,7 @@ main{
     .courses{
         flex-direction: column;
         height: 100%;
+        gap:20px;
     }
     .player, .blog, .course{
         flex-direction: column;
