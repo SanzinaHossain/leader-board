@@ -143,5 +143,6 @@ main{
     }
     .player, .blog, .course{
         flex-direction: column;
+        gap:20px;
     }
 }
